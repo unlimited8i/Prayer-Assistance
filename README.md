@@ -7,7 +7,7 @@ A computer vision-based prayer tracking application that uses pose detection to 
 - **Automatic Prayer Times**: Fetches accurate prayer times based on your location
 - **Pose Detection**: Uses MediaPipe to track prayer movements and count Rakah/Sajdah
 - **Prayer Logging**: Maintains detailed Excel logs of prayer performance
-- **Missed Prayer Tracking**: Identifies and reminds about missed prayers
+- **Missed Prayer Tracking**: Identifies missed prayers
 - **Manual Override**: Option to manually mark prayers as completed when camera is unavailable
 - **Cross-Platform**: Works on macOS, Windows, and Linux
 
@@ -152,5 +152,3 @@ If you encounter any issues or have questions:
 3. Ensure all dependencies are properly installed
 
 ---
-
-**May Allah accept our prayers and make this tool beneficial for the Muslim community. Ameen.** 🤲
