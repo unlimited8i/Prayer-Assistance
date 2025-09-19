@@ -139,10 +139,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- [MediaPipe](https://mediapipe.dev/) for pose detection
 - [Aladhan API](https://aladhan.com/) for prayer times
-- [OpenCV](https://opencv.org/) for computer vision
-- Islamic Society of North America for prayer time calculations
 
 ## 📞 Support
 
